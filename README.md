@@ -1,1 +1,2 @@
-# weather app using openweatherapi
+weather app using openweatherapi
+
